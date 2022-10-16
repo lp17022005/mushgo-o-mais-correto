@@ -37,7 +37,7 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      Olá Mundo
+      <router-view></router-view>
     </v-main>
   </v-app>
 </template>
