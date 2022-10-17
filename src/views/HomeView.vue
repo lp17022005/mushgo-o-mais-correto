@@ -1,6 +1,6 @@
 <template>
   <v-container class="pa-8">
-    <h1>Página blá blá</h1>
+    <h1>Página blá blá blá</h1>
   </v-container>
 </template>
 <script>
